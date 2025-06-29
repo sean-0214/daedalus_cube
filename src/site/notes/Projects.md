@@ -3,15 +3,14 @@
 ---
 
 
-# Things in Utah
+# Communications in Utah
 https://www.perplexity.ai/search/utah-communication-PCfSL_5GSH.om69X.eHOhg
 
-# OVERALL PROJECT PLAN
- 
+# OVERALL PROJECT PLAN, and related Skills
 
-![[Related Skillsets, Theories and projects.pdf]]
+<iframe src="https://drive.google.com/open?id=1tZYPwejDBp5rBfYK997ks7taHoBa00D4&usp=drive_fs" width="700" height="1000" ></iframe>
+<iframe src="https://drive.google.com/file/d/1lc0gr9ytmJybhu_uT9UkFaoCD2VFa3QA/view?usp=sharing" width="700" height="1000" ></iframe>
 
-![[Project plans.pdf]]
 # GOOGLE SHEET EXCEL
 Findings: One cannot export Gsheet and yet have the Gscript retained
 Some methods to trace dependencies include: 
@@ -26,8 +25,10 @@ Problems now: The output labelling of expense categorial type by Planto is not c
  +
  How does the Sheet label those category into the correct calulation?
  
-![[AI-Enhanced Google Sheets Add-on Development_ Comp.pdf]]
-
+ 
+ <iframe src="https://drive.google.com/file/d/10bI5BQ7Ld91qfYSC4sgrfpsY4DOLPCAh/view?usp=sharing" width="700" height="1000" ></iframe>
+ 
+ 
 # FACTOR MODELLING 
 [[Factor modelling\|Factor modelling]]
 
