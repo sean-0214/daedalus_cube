@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/sean-s-digital-space/","tags":["gardenEntry"]}
 ---
 
-This is good
+# FINANCE
+[[Asset pricing\|Asset pricing]]
 
-[[Projects\|Projects]]
+# MATH 
+[[Maths\|Maths]]
+
+
+# Computer Science
+[[All Computer programming mental readings\|All Computer programming mental readings]]
+
