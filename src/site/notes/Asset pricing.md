@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/asset-pricing/"}
 ---
 
-
-
 GOAL:  To determine the **fair market price** of the asset, given its risk and return profile.
 
 Action: Emphasize on VALUATION PROCESS (Pricing a stock/bond/derivative ) rather than merely forecasting RETURNs
