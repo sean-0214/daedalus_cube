@@ -66,7 +66,7 @@ With a deeper understanding established, leverage abstract models and long-term 
 1. **Using Mental Models (运用心智模型):**
     - **Explanation:** Actively construct and utilize simplified, internal representations of how the code, system components, or underlying concepts work (e.g., thinking of recursion as nested calls, a variable as a labeled box). These models allow reasoning about behavior without needing every detail, but be aware they might be incomplete or inaccurate. Consciously choose or refine models for the task.
     - **解释：** 主动构建和利用简化的内部表征，来理解代码、系统组件或底层概念如何工作（例如，将递归视为嵌套调用，将变量视为带标签的盒子）。这些模型允许在不需要所有细节的情况下推理行为，但要注意它们可能不完整或不准确。有意识地为任务选择或完善模型。
-2. **Using Notional Machines (运用[[概念机器\|概念机器]]):**
+2. **Using Notional Machines (运用[[CS2311 Finals 2021/概念机器\|概念机器]]):**
     - **Explanation:** Employ specific, abstract models of how the _computer executes_ the programming language's constructs. This differs from general mental models by focusing on execution semantics (e.g., how parameter passing works, how variable scope is handled, stack vs. heap allocation). Understanding the language's notional machine helps predict behavior accurately at the right level of abstraction (ignoring hardware details but capturing language rules).
     - **解释：** 运用特定的、抽象的模型来理解_计算机如何执行_编程语言的结构。这与一般心智模型不同，它侧重于执行语义（例如，参数传递如何工作，变量作用域如何处理，栈与堆分配）。理解语言的概念机器有助于在正确的抽象层次上准确预测行为（忽略硬件细节但捕捉语言规则）
 	
