@@ -3,13 +3,14 @@
 ---
 
 # WELCOME To My Digital Space
-## I document 
+##  I document 
 - Curated domain knowledge for Quant
 - Reflections 
 - Learning resources
 
 These might be helpful for Maths, CS and Finance fellows too, give a read and share your comments :)
 
+##  Including
 ### FINANCE
 [[Asset pricing\|Asset pricing]]
 
@@ -17,7 +18,9 @@ These might be helpful for Maths, CS and Finance fellows too, give a read and sh
 
 [[Maths\|Maths]]
 
-
+### STATISTICS
+Probability and Statistics
+[[MA2510\|MA2510]]
 ### Computer Science
 Computer Programming = Algo + Program Design
 
