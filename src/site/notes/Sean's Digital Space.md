@@ -22,7 +22,7 @@ These might be helpful for Maths, CS and Finance fellows too, give a read and sh
 Probability and Statistics
 [[MA2510\|MA2510]]
 ### Computer Science
-Computer Programming = Algo + Program Design
+Programs = Algo + Data Structure
 
 My favorite reading: 
 [[程序员超强大脑 The superbrain of computer programmer flow\|程序员超强大脑 The superbrain of computer programmer flow]]

@@ -24,6 +24,6 @@ Source: https://metaso.cn/s/7gqIRzg
 
 ![Maths philosophy.png](/img/user/%E8%B5%84%E6%96%99%E5%BA%93/%E9%99%84%E4%BB%B6/Maths%20philosophy.png)
 
-The following contain a lot of  fabricated frameworks, do validate  before using
+The following contain a lot of  mixed frameworks, do validate  before using
 ![maths philosophy academic.png](/img/user/%E8%B5%84%E6%96%99%E5%BA%93/%E9%99%84%E4%BB%B6/maths%20philosophy%20academic.png)
 ![maths philosoph doc,png.png](/img/user/%E8%B5%84%E6%96%99%E5%BA%93/%E9%99%84%E4%BB%B6/maths%20philosoph%20doc,png.png)
