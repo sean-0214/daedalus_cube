@@ -4,7 +4,7 @@
 
 # Basics
 [[MATHEMATIC SYMBOLICS\|MATHEMATIC SYMBOLICS]]
-
+[[MATHEMATIC OPERATIONS\|MATHEMATIC OPERATIONS]]
 # META templates:
 [[Maths philosophy\|Maths philosophy]]
 [[Plan for learning Maths\|Plan for learning Maths]]

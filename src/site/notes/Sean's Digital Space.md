@@ -20,7 +20,7 @@ These might be helpful for Maths, CS and Finance fellows too, give a read and sh
 
 ### STATISTICS
 Probability and Statistics
-[[MA2510\|MA2510]]
+[[MA2510 Probability and Statistics\|MA2510 Probability and Statistics]]
 ### Computer Science
 Programs = Algo + Data Structure
 
